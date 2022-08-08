@@ -1,0 +1,16 @@
+.oft{
+    width:100%;
+}
+.titleoft{
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+.opttable{
+    padding: 0px 0px;
+    
+}
+.background{
+    background-color:beige;
+}
+.opttable th, td {
+    border-color: blue;
+}

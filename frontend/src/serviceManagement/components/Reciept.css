@@ -1,0 +1,12 @@
+.rcpss{
+
+    width: 700px;
+    height: 500px;
+    padding: 1px;
+    background-color: white;
+    box-shadow: 10px 10px 5px grey;
+    margin-left: 30px;
+}
+.background2{
+    background-color:seashell;
+}

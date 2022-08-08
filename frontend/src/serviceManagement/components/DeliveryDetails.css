@@ -1,0 +1,17 @@
+
+.w{
+  
+  width: 700px;
+  height: 800px;
+  padding: 15px;
+  background-color: white;
+  box-shadow: 10px 10px 5px grey;
+}
+.row{
+    font-size: larger;
+    text-align: left;
+   
+}
+.background4{
+  background-color:powderblue;
+}
